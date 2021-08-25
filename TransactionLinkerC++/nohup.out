@@ -1,0 +1,3050 @@
+TransactionLinker init
+delete result1 and utxo finish
+start: Tue Aug 24 15:04:52 2021
+
+first txs_file read finish
+first txs_file load map finish
+/home/daslab/test_bitcoin_data/2009/2009-01-09/ start: Tue Aug 24 15:04:52 2021
+
+1
+0   1
+/home/daslab/test_bitcoin_data/2009/2009-01-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-10/ start: Tue Aug 24 15:04:52 2021
+
+14
+0   14
+/home/daslab/test_bitcoin_data/2009/2009-01-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-11/ start: Tue Aug 24 15:04:52 2021
+
+18
+0   18
+/home/daslab/test_bitcoin_data/2009/2009-01-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-12/ start: Tue Aug 24 15:04:52 2021
+
+108
+0   108
+/home/daslab/test_bitcoin_data/2009/2009-01-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-13/ start: Tue Aug 24 15:04:52 2021
+
+95
+0   95
+/home/daslab/test_bitcoin_data/2009/2009-01-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-14/ start: Tue Aug 24 15:04:52 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2009/2009-01-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-15/ start: Tue Aug 24 15:04:52 2021
+
+124
+0   124
+/home/daslab/test_bitcoin_data/2009/2009-01-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-16/ start: Tue Aug 24 15:04:52 2021
+
+132
+0   132
+/home/daslab/test_bitcoin_data/2009/2009-01-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-17/ start: Tue Aug 24 15:04:52 2021
+
+123
+0   123
+/home/daslab/test_bitcoin_data/2009/2009-01-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-18/ start: Tue Aug 24 15:04:52 2021
+
+106
+0   106
+/home/daslab/test_bitcoin_data/2009/2009-01-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-19/ start: Tue Aug 24 15:04:52 2021
+
+103
+0   103
+/home/daslab/test_bitcoin_data/2009/2009-01-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-20/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-01-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-21/ start: Tue Aug 24 15:04:52 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2009/2009-01-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-22/ start: Tue Aug 24 15:04:52 2021
+
+116
+0   116
+/home/daslab/test_bitcoin_data/2009/2009-01-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-23/ start: Tue Aug 24 15:04:52 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-01-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-24/ start: Tue Aug 24 15:04:52 2021
+
+54
+0   54
+/home/daslab/test_bitcoin_data/2009/2009-01-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-25/ start: Tue Aug 24 15:04:52 2021
+
+205
+0   205
+/home/daslab/test_bitcoin_data/2009/2009-01-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-26/ start: Tue Aug 24 15:04:52 2021
+
+198
+0   198
+/home/daslab/test_bitcoin_data/2009/2009-01-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-27/ start: Tue Aug 24 15:04:52 2021
+
+124
+0   124
+/home/daslab/test_bitcoin_data/2009/2009-01-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-28/ start: Tue Aug 24 15:04:52 2021
+
+102
+0   102
+/home/daslab/test_bitcoin_data/2009/2009-01-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-29/ start: Tue Aug 24 15:04:52 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-01-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-30/ start: Tue Aug 24 15:04:52 2021
+
+116
+0   116
+/home/daslab/test_bitcoin_data/2009/2009-01-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-01-31/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-01-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-01/ start: Tue Aug 24 15:04:52 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-02-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-02/ start: Tue Aug 24 15:04:52 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-02-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-03/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-02-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-04/ start: Tue Aug 24 15:04:52 2021
+
+150
+0   150
+/home/daslab/test_bitcoin_data/2009/2009-02-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-05/ start: Tue Aug 24 15:04:52 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2009/2009-02-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-06/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-02-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-07/ start: Tue Aug 24 15:04:52 2021
+
+126
+0   126
+/home/daslab/test_bitcoin_data/2009/2009-02-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-08/ start: Tue Aug 24 15:04:52 2021
+
+135
+0   135
+/home/daslab/test_bitcoin_data/2009/2009-02-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-09/ start: Tue Aug 24 15:04:52 2021
+
+133
+0   133
+/home/daslab/test_bitcoin_data/2009/2009-02-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-10/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-02-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-11/ start: Tue Aug 24 15:04:52 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2009/2009-02-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-12/ start: Tue Aug 24 15:04:52 2021
+
+135
+0   135
+/home/daslab/test_bitcoin_data/2009/2009-02-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-13/ start: Tue Aug 24 15:04:52 2021
+
+121
+0   121
+/home/daslab/test_bitcoin_data/2009/2009-02-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-14/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-02-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-15/ start: Tue Aug 24 15:04:52 2021
+
+137
+0   137
+/home/daslab/test_bitcoin_data/2009/2009-02-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-16/ start: Tue Aug 24 15:04:52 2021
+
+126
+0   126
+/home/daslab/test_bitcoin_data/2009/2009-02-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-17/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-02-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-18/ start: Tue Aug 24 15:04:52 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2009/2009-02-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-19/ start: Tue Aug 24 15:04:52 2021
+
+121
+0   121
+/home/daslab/test_bitcoin_data/2009/2009-02-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-20/ start: Tue Aug 24 15:04:52 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-02-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-21/ start: Tue Aug 24 15:04:52 2021
+
+134
+0   134
+/home/daslab/test_bitcoin_data/2009/2009-02-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-22/ start: Tue Aug 24 15:04:52 2021
+
+105
+0   105
+/home/daslab/test_bitcoin_data/2009/2009-02-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-23/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-02-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-24/ start: Tue Aug 24 15:04:52 2021
+
+108
+0   108
+/home/daslab/test_bitcoin_data/2009/2009-02-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-25/ start: Tue Aug 24 15:04:52 2021
+
+107
+0   107
+/home/daslab/test_bitcoin_data/2009/2009-02-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-26/ start: Tue Aug 24 15:04:52 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-02-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-27/ start: Tue Aug 24 15:04:52 2021
+
+97
+0   97
+/home/daslab/test_bitcoin_data/2009/2009-02-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-02-28/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-02-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-01/ start: Tue Aug 24 15:04:52 2021
+
+106
+0   106
+/home/daslab/test_bitcoin_data/2009/2009-03-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-02/ start: Tue Aug 24 15:04:52 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-03-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-03/ start: Tue Aug 24 15:04:52 2021
+
+106
+0   106
+/home/daslab/test_bitcoin_data/2009/2009-03-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-04/ start: Tue Aug 24 15:04:52 2021
+
+107
+0   107
+/home/daslab/test_bitcoin_data/2009/2009-03-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-05/ start: Tue Aug 24 15:04:52 2021
+
+108
+0   108
+/home/daslab/test_bitcoin_data/2009/2009-03-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-06/ start: Tue Aug 24 15:04:52 2021
+
+105
+0   105
+/home/daslab/test_bitcoin_data/2009/2009-03-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-07/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-03-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-08/ start: Tue Aug 24 15:04:52 2021
+
+110
+0   110
+/home/daslab/test_bitcoin_data/2009/2009-03-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-09/ start: Tue Aug 24 15:04:52 2021
+
+113
+0   113
+/home/daslab/test_bitcoin_data/2009/2009-03-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-10/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-03-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-11/ start: Tue Aug 24 15:04:52 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-03-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-12/ start: Tue Aug 24 15:04:52 2021
+
+107
+0   107
+/home/daslab/test_bitcoin_data/2009/2009-03-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-13/ start: Tue Aug 24 15:04:52 2021
+
+119
+0   119
+/home/daslab/test_bitcoin_data/2009/2009-03-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-14/ start: Tue Aug 24 15:04:52 2021
+
+112
+0   112
+/home/daslab/test_bitcoin_data/2009/2009-03-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-15/ start: Tue Aug 24 15:04:52 2021
+
+116
+0   116
+/home/daslab/test_bitcoin_data/2009/2009-03-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-16/ start: Tue Aug 24 15:04:52 2021
+
+113
+0   113
+/home/daslab/test_bitcoin_data/2009/2009-03-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-17/ start: Tue Aug 24 15:04:52 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-03-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-18/ start: Tue Aug 24 15:04:52 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-03-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-19/ start: Tue Aug 24 15:04:52 2021
+
+109
+0   109
+/home/daslab/test_bitcoin_data/2009/2009-03-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-20/ start: Tue Aug 24 15:04:52 2021
+
+123
+0   123
+/home/daslab/test_bitcoin_data/2009/2009-03-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-21/ start: Tue Aug 24 15:04:52 2021
+
+119
+0   119
+/home/daslab/test_bitcoin_data/2009/2009-03-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-22/ start: Tue Aug 24 15:04:53 2021
+
+86
+0   86
+/home/daslab/test_bitcoin_data/2009/2009-03-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-23/ start: Tue Aug 24 15:04:53 2021
+
+86
+0   86
+/home/daslab/test_bitcoin_data/2009/2009-03-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-24/ start: Tue Aug 24 15:04:53 2021
+
+129
+0   129
+/home/daslab/test_bitcoin_data/2009/2009-03-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-25/ start: Tue Aug 24 15:04:53 2021
+
+109
+0   109
+/home/daslab/test_bitcoin_data/2009/2009-03-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-26/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-03-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-27/ start: Tue Aug 24 15:04:53 2021
+
+114
+0   114
+/home/daslab/test_bitcoin_data/2009/2009-03-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-28/ start: Tue Aug 24 15:04:53 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-03-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-29/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-03-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-30/ start: Tue Aug 24 15:04:53 2021
+
+115
+0   115
+/home/daslab/test_bitcoin_data/2009/2009-03-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-03-31/ start: Tue Aug 24 15:04:53 2021
+
+125
+0   125
+/home/daslab/test_bitcoin_data/2009/2009-03-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-01/ start: Tue Aug 24 15:04:53 2021
+
+113
+0   113
+/home/daslab/test_bitcoin_data/2009/2009-04-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-02/ start: Tue Aug 24 15:04:53 2021
+
+109
+0   109
+/home/daslab/test_bitcoin_data/2009/2009-04-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-03/ start: Tue Aug 24 15:04:53 2021
+
+121
+0   121
+/home/daslab/test_bitcoin_data/2009/2009-04-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-04/ start: Tue Aug 24 15:04:53 2021
+
+112
+0   112
+/home/daslab/test_bitcoin_data/2009/2009-04-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-05/ start: Tue Aug 24 15:04:53 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-04-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-06/ start: Tue Aug 24 15:04:53 2021
+
+132
+0   132
+/home/daslab/test_bitcoin_data/2009/2009-04-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-07/ start: Tue Aug 24 15:04:53 2021
+
+112
+0   112
+/home/daslab/test_bitcoin_data/2009/2009-04-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-08/ start: Tue Aug 24 15:04:53 2021
+
+102
+0   102
+/home/daslab/test_bitcoin_data/2009/2009-04-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-09/ start: Tue Aug 24 15:04:53 2021
+
+107
+0   107
+/home/daslab/test_bitcoin_data/2009/2009-04-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-10/ start: Tue Aug 24 15:04:53 2021
+
+97
+0   97
+/home/daslab/test_bitcoin_data/2009/2009-04-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-11/ start: Tue Aug 24 15:04:53 2021
+
+99
+0   99
+/home/daslab/test_bitcoin_data/2009/2009-04-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-12/ start: Tue Aug 24 15:04:53 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2009/2009-04-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-13/ start: Tue Aug 24 15:04:53 2021
+
+113
+0   113
+/home/daslab/test_bitcoin_data/2009/2009-04-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-14/ start: Tue Aug 24 15:04:53 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-04-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-15/ start: Tue Aug 24 15:04:53 2021
+
+125
+0   125
+/home/daslab/test_bitcoin_data/2009/2009-04-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-16/ start: Tue Aug 24 15:04:53 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-04-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-17/ start: Tue Aug 24 15:04:53 2021
+
+124
+0   124
+/home/daslab/test_bitcoin_data/2009/2009-04-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-18/ start: Tue Aug 24 15:04:53 2021
+
+116
+0   116
+/home/daslab/test_bitcoin_data/2009/2009-04-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-19/ start: Tue Aug 24 15:04:53 2021
+
+124
+0   124
+/home/daslab/test_bitcoin_data/2009/2009-04-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-20/ start: Tue Aug 24 15:04:53 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-04-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-21/ start: Tue Aug 24 15:04:53 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2009/2009-04-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-22/ start: Tue Aug 24 15:04:53 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-04-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-23/ start: Tue Aug 24 15:04:53 2021
+
+123
+0   123
+/home/daslab/test_bitcoin_data/2009/2009-04-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-24/ start: Tue Aug 24 15:04:53 2021
+
+84
+0   84
+/home/daslab/test_bitcoin_data/2009/2009-04-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-25/ start: Tue Aug 24 15:04:53 2021
+
+107
+0   107
+/home/daslab/test_bitcoin_data/2009/2009-04-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-26/ start: Tue Aug 24 15:04:53 2021
+
+125
+0   125
+/home/daslab/test_bitcoin_data/2009/2009-04-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-27/ start: Tue Aug 24 15:04:53 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-04-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-28/ start: Tue Aug 24 15:04:53 2021
+
+105
+0   105
+/home/daslab/test_bitcoin_data/2009/2009-04-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-29/ start: Tue Aug 24 15:04:53 2021
+
+114
+0   114
+/home/daslab/test_bitcoin_data/2009/2009-04-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-04-30/ start: Tue Aug 24 15:04:53 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-04-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-01/ start: Tue Aug 24 15:04:53 2021
+
+136
+0   136
+/home/daslab/test_bitcoin_data/2009/2009-05-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-02/ start: Tue Aug 24 15:04:53 2021
+
+119
+0   119
+/home/daslab/test_bitcoin_data/2009/2009-05-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-03/ start: Tue Aug 24 15:04:53 2021
+
+129
+0   129
+/home/daslab/test_bitcoin_data/2009/2009-05-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-04/ start: Tue Aug 24 15:04:53 2021
+
+111
+0   111
+/home/daslab/test_bitcoin_data/2009/2009-05-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-05/ start: Tue Aug 24 15:04:53 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2009/2009-05-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-06/ start: Tue Aug 24 15:04:53 2021
+
+135
+0   135
+/home/daslab/test_bitcoin_data/2009/2009-05-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-07/ start: Tue Aug 24 15:04:53 2021
+
+130
+0   130
+/home/daslab/test_bitcoin_data/2009/2009-05-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-08/ start: Tue Aug 24 15:04:53 2021
+
+125
+0   125
+/home/daslab/test_bitcoin_data/2009/2009-05-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-09/ start: Tue Aug 24 15:04:53 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2009/2009-05-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-10/ start: Tue Aug 24 15:04:53 2021
+
+93
+0   93
+/home/daslab/test_bitcoin_data/2009/2009-05-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-11/ start: Tue Aug 24 15:04:53 2021
+
+58
+0   58
+/home/daslab/test_bitcoin_data/2009/2009-05-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-12/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-05-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-13/ start: Tue Aug 24 15:04:53 2021
+
+130
+0   130
+/home/daslab/test_bitcoin_data/2009/2009-05-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-14/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-05-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-15/ start: Tue Aug 24 15:04:53 2021
+
+134
+0   134
+/home/daslab/test_bitcoin_data/2009/2009-05-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-16/ start: Tue Aug 24 15:04:53 2021
+
+148
+0   148
+/home/daslab/test_bitcoin_data/2009/2009-05-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-17/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-05-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-18/ start: Tue Aug 24 15:04:53 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-05-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-19/ start: Tue Aug 24 15:04:53 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2009/2009-05-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-20/ start: Tue Aug 24 15:04:53 2021
+
+116
+0   116
+/home/daslab/test_bitcoin_data/2009/2009-05-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-21/ start: Tue Aug 24 15:04:53 2021
+
+89
+0   89
+/home/daslab/test_bitcoin_data/2009/2009-05-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-22/ start: Tue Aug 24 15:04:53 2021
+
+93
+0   93
+/home/daslab/test_bitcoin_data/2009/2009-05-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-23/ start: Tue Aug 24 15:04:53 2021
+
+94
+0   94
+/home/daslab/test_bitcoin_data/2009/2009-05-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-24/ start: Tue Aug 24 15:04:53 2021
+
+6
+0   6
+/home/daslab/test_bitcoin_data/2009/2009-05-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-25/ start: Tue Aug 24 15:04:53 2021
+
+94
+0   94
+/home/daslab/test_bitcoin_data/2009/2009-05-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-26/ start: Tue Aug 24 15:04:53 2021
+
+99
+0   99
+/home/daslab/test_bitcoin_data/2009/2009-05-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-27/ start: Tue Aug 24 15:04:53 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-05-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-28/ start: Tue Aug 24 15:04:53 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2009/2009-05-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-29/ start: Tue Aug 24 15:04:53 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-05-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-30/ start: Tue Aug 24 15:04:53 2021
+
+105
+0   105
+/home/daslab/test_bitcoin_data/2009/2009-05-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-05-31/ start: Tue Aug 24 15:04:53 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-05-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-01/ start: Tue Aug 24 15:04:53 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2009/2009-06-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-02/ start: Tue Aug 24 15:04:53 2021
+
+77
+0   77
+/home/daslab/test_bitcoin_data/2009/2009-06-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-03/ start: Tue Aug 24 15:04:53 2021
+
+86
+0   86
+/home/daslab/test_bitcoin_data/2009/2009-06-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-04/ start: Tue Aug 24 15:04:53 2021
+
+100
+0   100
+/home/daslab/test_bitcoin_data/2009/2009-06-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-05/ start: Tue Aug 24 15:04:53 2021
+
+39
+0   39
+/home/daslab/test_bitcoin_data/2009/2009-06-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-06/ start: Tue Aug 24 15:04:53 2021
+
+66
+0   66
+/home/daslab/test_bitcoin_data/2009/2009-06-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-07/ start: Tue Aug 24 15:04:53 2021
+
+19
+0   19
+/home/daslab/test_bitcoin_data/2009/2009-06-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-08/ start: Tue Aug 24 15:04:53 2021
+
+9
+0   9
+/home/daslab/test_bitcoin_data/2009/2009-06-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-09/ start: Tue Aug 24 15:04:53 2021
+
+66
+0   66
+/home/daslab/test_bitcoin_data/2009/2009-06-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-10/ start: Tue Aug 24 15:04:53 2021
+
+91
+0   91
+/home/daslab/test_bitcoin_data/2009/2009-06-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-11/ start: Tue Aug 24 15:04:53 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-06-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-12/ start: Tue Aug 24 15:04:53 2021
+
+90
+0   90
+/home/daslab/test_bitcoin_data/2009/2009-06-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-13/ start: Tue Aug 24 15:04:53 2021
+
+95
+0   95
+/home/daslab/test_bitcoin_data/2009/2009-06-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-14/ start: Tue Aug 24 15:04:53 2021
+
+69
+0   69
+/home/daslab/test_bitcoin_data/2009/2009-06-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-15/ start: Tue Aug 24 15:04:53 2021
+
+73
+0   73
+/home/daslab/test_bitcoin_data/2009/2009-06-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-16/ start: Tue Aug 24 15:04:53 2021
+
+80
+0   80
+/home/daslab/test_bitcoin_data/2009/2009-06-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-17/ start: Tue Aug 24 15:04:53 2021
+
+78
+0   78
+/home/daslab/test_bitcoin_data/2009/2009-06-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-18/ start: Tue Aug 24 15:04:53 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-06-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-19/ start: Tue Aug 24 15:04:53 2021
+
+82
+0   82
+/home/daslab/test_bitcoin_data/2009/2009-06-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-20/ start: Tue Aug 24 15:04:53 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-06-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-21/ start: Tue Aug 24 15:04:53 2021
+
+82
+0   82
+/home/daslab/test_bitcoin_data/2009/2009-06-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-22/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-06-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-23/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-06-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-24/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-06-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-25/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-06-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-26/ start: Tue Aug 24 15:04:53 2021
+
+77
+0   77
+/home/daslab/test_bitcoin_data/2009/2009-06-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-27/ start: Tue Aug 24 15:04:53 2021
+
+93
+0   93
+/home/daslab/test_bitcoin_data/2009/2009-06-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-28/ start: Tue Aug 24 15:04:53 2021
+
+83
+0   83
+/home/daslab/test_bitcoin_data/2009/2009-06-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-29/ start: Tue Aug 24 15:04:53 2021
+
+57
+0   57
+/home/daslab/test_bitcoin_data/2009/2009-06-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-06-30/ start: Tue Aug 24 15:04:53 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-06-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-01/ start: Tue Aug 24 15:04:53 2021
+
+88
+0   88
+/home/daslab/test_bitcoin_data/2009/2009-07-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-02/ start: Tue Aug 24 15:04:53 2021
+
+89
+0   89
+/home/daslab/test_bitcoin_data/2009/2009-07-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-03/ start: Tue Aug 24 15:04:53 2021
+
+68
+0   68
+/home/daslab/test_bitcoin_data/2009/2009-07-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-04/ start: Tue Aug 24 15:04:53 2021
+
+87
+0   87
+/home/daslab/test_bitcoin_data/2009/2009-07-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-05/ start: Tue Aug 24 15:04:53 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-07-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-06/ start: Tue Aug 24 15:04:53 2021
+
+83
+0   83
+/home/daslab/test_bitcoin_data/2009/2009-07-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-07/ start: Tue Aug 24 15:04:53 2021
+
+88
+0   88
+/home/daslab/test_bitcoin_data/2009/2009-07-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-08/ start: Tue Aug 24 15:04:53 2021
+
+65
+0   65
+/home/daslab/test_bitcoin_data/2009/2009-07-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-09/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-07-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-10/ start: Tue Aug 24 15:04:53 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-07-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-11/ start: Tue Aug 24 15:04:53 2021
+
+84
+0   84
+/home/daslab/test_bitcoin_data/2009/2009-07-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-12/ start: Tue Aug 24 15:04:53 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-07-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-13/ start: Tue Aug 24 15:04:53 2021
+
+77
+0   77
+/home/daslab/test_bitcoin_data/2009/2009-07-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-14/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-07-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-15/ start: Tue Aug 24 15:04:53 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-07-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-16/ start: Tue Aug 24 15:04:53 2021
+
+48
+0   48
+/home/daslab/test_bitcoin_data/2009/2009-07-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-17/ start: Tue Aug 24 15:04:53 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-07-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-18/ start: Tue Aug 24 15:04:53 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-07-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-19/ start: Tue Aug 24 15:04:53 2021
+
+4
+0   4
+/home/daslab/test_bitcoin_data/2009/2009-07-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-20/ start: Tue Aug 24 15:04:53 2021
+
+44
+0   44
+/home/daslab/test_bitcoin_data/2009/2009-07-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-21/ start: Tue Aug 24 15:04:53 2021
+
+75
+0   75
+/home/daslab/test_bitcoin_data/2009/2009-07-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-22/ start: Tue Aug 24 15:04:53 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-07-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-23/ start: Tue Aug 24 15:04:53 2021
+
+71
+0   71
+/home/daslab/test_bitcoin_data/2009/2009-07-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-24/ start: Tue Aug 24 15:04:53 2021
+
+64
+0   64
+/home/daslab/test_bitcoin_data/2009/2009-07-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-25/ start: Tue Aug 24 15:04:53 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-07-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-26/ start: Tue Aug 24 15:04:53 2021
+
+60
+0   60
+/home/daslab/test_bitcoin_data/2009/2009-07-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-27/ start: Tue Aug 24 15:04:53 2021
+
+9
+0   9
+/home/daslab/test_bitcoin_data/2009/2009-07-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-28/ start: Tue Aug 24 15:04:53 2021
+
+60
+0   60
+/home/daslab/test_bitcoin_data/2009/2009-07-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-29/ start: Tue Aug 24 15:04:53 2021
+
+51
+0   51
+/home/daslab/test_bitcoin_data/2009/2009-07-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-30/ start: Tue Aug 24 15:04:53 2021
+
+30
+0   30
+/home/daslab/test_bitcoin_data/2009/2009-07-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-07-31/ start: Tue Aug 24 15:04:53 2021
+
+14
+0   14
+/home/daslab/test_bitcoin_data/2009/2009-07-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-01/ start: Tue Aug 24 15:04:53 2021
+
+14
+0   14
+/home/daslab/test_bitcoin_data/2009/2009-08-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-02/ start: Tue Aug 24 15:04:53 2021
+
+25
+0   25
+/home/daslab/test_bitcoin_data/2009/2009-08-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-03/ start: Tue Aug 24 15:04:53 2021
+
+28
+0   28
+/home/daslab/test_bitcoin_data/2009/2009-08-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-04/ start: Tue Aug 24 15:04:53 2021
+
+17
+0   17
+/home/daslab/test_bitcoin_data/2009/2009-08-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-05/ start: Tue Aug 24 15:04:53 2021
+
+52
+0   52
+/home/daslab/test_bitcoin_data/2009/2009-08-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-06/ start: Tue Aug 24 15:04:53 2021
+
+92
+0   92
+/home/daslab/test_bitcoin_data/2009/2009-08-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-07/ start: Tue Aug 24 15:04:53 2021
+
+95
+0   95
+/home/daslab/test_bitcoin_data/2009/2009-08-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-08/ start: Tue Aug 24 15:04:53 2021
+
+72
+0   72
+/home/daslab/test_bitcoin_data/2009/2009-08-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-09/ start: Tue Aug 24 15:04:53 2021
+
+84
+0   84
+/home/daslab/test_bitcoin_data/2009/2009-08-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-10/ start: Tue Aug 24 15:04:53 2021
+
+97
+0   97
+/home/daslab/test_bitcoin_data/2009/2009-08-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-11/ start: Tue Aug 24 15:04:53 2021
+
+82
+0   82
+/home/daslab/test_bitcoin_data/2009/2009-08-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-12/ start: Tue Aug 24 15:04:53 2021
+
+69
+0   69
+/home/daslab/test_bitcoin_data/2009/2009-08-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-13/ start: Tue Aug 24 15:04:53 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-08-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-14/ start: Tue Aug 24 15:04:53 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-08-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-15/ start: Tue Aug 24 15:04:53 2021
+
+64
+0   64
+/home/daslab/test_bitcoin_data/2009/2009-08-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-16/ start: Tue Aug 24 15:04:53 2021
+
+39
+0   39
+/home/daslab/test_bitcoin_data/2009/2009-08-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-17/ start: Tue Aug 24 15:04:53 2021
+
+21
+0   21
+/home/daslab/test_bitcoin_data/2009/2009-08-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-18/ start: Tue Aug 24 15:04:53 2021
+
+21
+0   21
+/home/daslab/test_bitcoin_data/2009/2009-08-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-19/ start: Tue Aug 24 15:04:53 2021
+
+10
+0   10
+/home/daslab/test_bitcoin_data/2009/2009-08-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-20/ start: Tue Aug 24 15:04:53 2021
+
+13
+0   13
+/home/daslab/test_bitcoin_data/2009/2009-08-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-21/ start: Tue Aug 24 15:04:53 2021
+
+24
+0   24
+/home/daslab/test_bitcoin_data/2009/2009-08-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-22/ start: Tue Aug 24 15:04:53 2021
+
+18
+0   18
+/home/daslab/test_bitcoin_data/2009/2009-08-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-23/ start: Tue Aug 24 15:04:53 2021
+
+6
+0   6
+/home/daslab/test_bitcoin_data/2009/2009-08-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-24/ start: Tue Aug 24 15:04:53 2021
+
+14
+0   14
+/home/daslab/test_bitcoin_data/2009/2009-08-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-25/ start: Tue Aug 24 15:04:53 2021
+
+8
+0   8
+/home/daslab/test_bitcoin_data/2009/2009-08-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-26/ start: Tue Aug 24 15:04:53 2021
+
+51
+0   51
+/home/daslab/test_bitcoin_data/2009/2009-08-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-27/ start: Tue Aug 24 15:04:53 2021
+
+40
+0   40
+/home/daslab/test_bitcoin_data/2009/2009-08-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-28/ start: Tue Aug 24 15:04:53 2021
+
+33
+0   33
+/home/daslab/test_bitcoin_data/2009/2009-08-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-29/ start: Tue Aug 24 15:04:53 2021
+
+64
+0   64
+/home/daslab/test_bitcoin_data/2009/2009-08-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-30/ start: Tue Aug 24 15:04:53 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-08-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-08-31/ start: Tue Aug 24 15:04:53 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-08-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-01/ start: Tue Aug 24 15:04:53 2021
+
+96
+0   96
+/home/daslab/test_bitcoin_data/2009/2009-09-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-02/ start: Tue Aug 24 15:04:53 2021
+
+83
+0   83
+/home/daslab/test_bitcoin_data/2009/2009-09-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-03/ start: Tue Aug 24 15:04:53 2021
+
+65
+0   65
+/home/daslab/test_bitcoin_data/2009/2009-09-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-04/ start: Tue Aug 24 15:04:53 2021
+
+64
+0   64
+/home/daslab/test_bitcoin_data/2009/2009-09-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-05/ start: Tue Aug 24 15:04:53 2021
+
+58
+0   58
+/home/daslab/test_bitcoin_data/2009/2009-09-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-06/ start: Tue Aug 24 15:04:53 2021
+
+73
+0   73
+/home/daslab/test_bitcoin_data/2009/2009-09-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-07/ start: Tue Aug 24 15:04:53 2021
+
+74
+0   74
+/home/daslab/test_bitcoin_data/2009/2009-09-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-08/ start: Tue Aug 24 15:04:53 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-09-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-09/ start: Tue Aug 24 15:04:54 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-09-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-10/ start: Tue Aug 24 15:04:54 2021
+
+56
+0   56
+/home/daslab/test_bitcoin_data/2009/2009-09-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-11/ start: Tue Aug 24 15:04:54 2021
+
+63
+0   63
+/home/daslab/test_bitcoin_data/2009/2009-09-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-12/ start: Tue Aug 24 15:04:54 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-09-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-13/ start: Tue Aug 24 15:04:54 2021
+
+68
+0   68
+/home/daslab/test_bitcoin_data/2009/2009-09-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-14/ start: Tue Aug 24 15:04:54 2021
+
+72
+0   72
+/home/daslab/test_bitcoin_data/2009/2009-09-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-15/ start: Tue Aug 24 15:04:54 2021
+
+80
+0   80
+/home/daslab/test_bitcoin_data/2009/2009-09-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-16/ start: Tue Aug 24 15:04:54 2021
+
+63
+0   63
+/home/daslab/test_bitcoin_data/2009/2009-09-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-17/ start: Tue Aug 24 15:04:54 2021
+
+55
+0   55
+/home/daslab/test_bitcoin_data/2009/2009-09-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-18/ start: Tue Aug 24 15:04:54 2021
+
+80
+0   80
+/home/daslab/test_bitcoin_data/2009/2009-09-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-19/ start: Tue Aug 24 15:04:54 2021
+
+86
+0   86
+/home/daslab/test_bitcoin_data/2009/2009-09-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-20/ start: Tue Aug 24 15:04:54 2021
+
+69
+0   69
+/home/daslab/test_bitcoin_data/2009/2009-09-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-21/ start: Tue Aug 24 15:04:54 2021
+
+77
+0   77
+/home/daslab/test_bitcoin_data/2009/2009-09-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-22/ start: Tue Aug 24 15:04:54 2021
+
+77
+0   77
+/home/daslab/test_bitcoin_data/2009/2009-09-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-23/ start: Tue Aug 24 15:04:54 2021
+
+39
+0   39
+/home/daslab/test_bitcoin_data/2009/2009-09-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-24/ start: Tue Aug 24 15:04:54 2021
+
+24
+0   24
+/home/daslab/test_bitcoin_data/2009/2009-09-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-25/ start: Tue Aug 24 15:04:54 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-09-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-26/ start: Tue Aug 24 15:04:54 2021
+
+103
+0   103
+/home/daslab/test_bitcoin_data/2009/2009-09-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-27/ start: Tue Aug 24 15:04:54 2021
+
+91
+0   91
+/home/daslab/test_bitcoin_data/2009/2009-09-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-28/ start: Tue Aug 24 15:04:54 2021
+
+95
+0   95
+/home/daslab/test_bitcoin_data/2009/2009-09-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-29/ start: Tue Aug 24 15:04:54 2021
+
+86
+0   86
+/home/daslab/test_bitcoin_data/2009/2009-09-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-09-30/ start: Tue Aug 24 15:04:54 2021
+
+87
+0   87
+/home/daslab/test_bitcoin_data/2009/2009-09-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-01/ start: Tue Aug 24 15:04:54 2021
+
+83
+0   83
+/home/daslab/test_bitcoin_data/2009/2009-10-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-02/ start: Tue Aug 24 15:04:54 2021
+
+84
+0   84
+/home/daslab/test_bitcoin_data/2009/2009-10-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-03/ start: Tue Aug 24 15:04:54 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-10-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-04/ start: Tue Aug 24 15:04:54 2021
+
+53
+0   53
+/home/daslab/test_bitcoin_data/2009/2009-10-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-05/ start: Tue Aug 24 15:04:54 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-10-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-06/ start: Tue Aug 24 15:04:54 2021
+
+52
+0   52
+/home/daslab/test_bitcoin_data/2009/2009-10-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-07/ start: Tue Aug 24 15:04:54 2021
+
+48
+0   48
+/home/daslab/test_bitcoin_data/2009/2009-10-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-08/ start: Tue Aug 24 15:04:54 2021
+
+49
+0   49
+/home/daslab/test_bitcoin_data/2009/2009-10-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-09/ start: Tue Aug 24 15:04:54 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-10-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-10/ start: Tue Aug 24 15:04:54 2021
+
+76
+0   76
+/home/daslab/test_bitcoin_data/2009/2009-10-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-11/ start: Tue Aug 24 15:04:54 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-10-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-12/ start: Tue Aug 24 15:04:54 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-10-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-13/ start: Tue Aug 24 15:04:54 2021
+
+63
+0   63
+/home/daslab/test_bitcoin_data/2009/2009-10-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-14/ start: Tue Aug 24 15:04:54 2021
+
+52
+0   52
+/home/daslab/test_bitcoin_data/2009/2009-10-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-15/ start: Tue Aug 24 15:04:54 2021
+
+58
+0   58
+/home/daslab/test_bitcoin_data/2009/2009-10-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-16/ start: Tue Aug 24 15:04:54 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-10-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-17/ start: Tue Aug 24 15:04:54 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-10-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-18/ start: Tue Aug 24 15:04:54 2021
+
+54
+0   54
+/home/daslab/test_bitcoin_data/2009/2009-10-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-19/ start: Tue Aug 24 15:04:54 2021
+
+65
+0   65
+/home/daslab/test_bitcoin_data/2009/2009-10-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-20/ start: Tue Aug 24 15:04:54 2021
+
+100
+0   100
+/home/daslab/test_bitcoin_data/2009/2009-10-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-21/ start: Tue Aug 24 15:04:54 2021
+
+110
+0   110
+/home/daslab/test_bitcoin_data/2009/2009-10-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-22/ start: Tue Aug 24 15:04:54 2021
+
+85
+0   85
+/home/daslab/test_bitcoin_data/2009/2009-10-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-23/ start: Tue Aug 24 15:04:54 2021
+
+87
+0   87
+/home/daslab/test_bitcoin_data/2009/2009-10-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-24/ start: Tue Aug 24 15:04:54 2021
+
+84
+0   84
+/home/daslab/test_bitcoin_data/2009/2009-10-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-25/ start: Tue Aug 24 15:04:54 2021
+
+80
+0   80
+/home/daslab/test_bitcoin_data/2009/2009-10-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-26/ start: Tue Aug 24 15:04:54 2021
+
+71
+0   71
+/home/daslab/test_bitcoin_data/2009/2009-10-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-27/ start: Tue Aug 24 15:04:54 2021
+
+67
+0   67
+/home/daslab/test_bitcoin_data/2009/2009-10-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-28/ start: Tue Aug 24 15:04:54 2021
+
+69
+0   69
+/home/daslab/test_bitcoin_data/2009/2009-10-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-29/ start: Tue Aug 24 15:04:54 2021
+
+62
+0   62
+/home/daslab/test_bitcoin_data/2009/2009-10-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-30/ start: Tue Aug 24 15:04:54 2021
+
+55
+0   55
+/home/daslab/test_bitcoin_data/2009/2009-10-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-10-31/ start: Tue Aug 24 15:04:54 2021
+
+59
+0   59
+/home/daslab/test_bitcoin_data/2009/2009-10-31/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-01/ start: Tue Aug 24 15:04:54 2021
+
+47
+0   47
+/home/daslab/test_bitcoin_data/2009/2009-11-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-02/ start: Tue Aug 24 15:04:54 2021
+
+33
+0   33
+/home/daslab/test_bitcoin_data/2009/2009-11-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-03/ start: Tue Aug 24 15:04:54 2021
+
+32
+0   32
+/home/daslab/test_bitcoin_data/2009/2009-11-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-04/ start: Tue Aug 24 15:04:54 2021
+
+46
+0   46
+/home/daslab/test_bitcoin_data/2009/2009-11-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-05/ start: Tue Aug 24 15:04:54 2021
+
+64
+0   64
+/home/daslab/test_bitcoin_data/2009/2009-11-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-06/ start: Tue Aug 24 15:04:54 2021
+
+70
+0   70
+/home/daslab/test_bitcoin_data/2009/2009-11-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-07/ start: Tue Aug 24 15:04:54 2021
+
+50
+0   50
+/home/daslab/test_bitcoin_data/2009/2009-11-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-08/ start: Tue Aug 24 15:04:54 2021
+
+74
+0   74
+/home/daslab/test_bitcoin_data/2009/2009-11-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-09/ start: Tue Aug 24 15:04:54 2021
+
+69
+0   69
+/home/daslab/test_bitcoin_data/2009/2009-11-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-10/ start: Tue Aug 24 15:04:54 2021
+
+63
+0   63
+/home/daslab/test_bitcoin_data/2009/2009-11-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-11/ start: Tue Aug 24 15:04:54 2021
+
+73
+0   73
+/home/daslab/test_bitcoin_data/2009/2009-11-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-12/ start: Tue Aug 24 15:04:54 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-11-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-13/ start: Tue Aug 24 15:04:54 2021
+
+66
+0   66
+/home/daslab/test_bitcoin_data/2009/2009-11-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-14/ start: Tue Aug 24 15:04:54 2021
+
+75
+0   75
+/home/daslab/test_bitcoin_data/2009/2009-11-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-15/ start: Tue Aug 24 15:04:54 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-11-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-16/ start: Tue Aug 24 15:04:54 2021
+
+99
+0   99
+/home/daslab/test_bitcoin_data/2009/2009-11-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-17/ start: Tue Aug 24 15:04:54 2021
+
+96
+0   96
+/home/daslab/test_bitcoin_data/2009/2009-11-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-18/ start: Tue Aug 24 15:04:54 2021
+
+94
+0   94
+/home/daslab/test_bitcoin_data/2009/2009-11-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-19/ start: Tue Aug 24 15:04:54 2021
+
+81
+0   81
+/home/daslab/test_bitcoin_data/2009/2009-11-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-20/ start: Tue Aug 24 15:04:54 2021
+
+72
+0   72
+/home/daslab/test_bitcoin_data/2009/2009-11-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-21/ start: Tue Aug 24 15:04:54 2021
+
+82
+0   82
+/home/daslab/test_bitcoin_data/2009/2009-11-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-22/ start: Tue Aug 24 15:04:54 2021
+
+78
+0   78
+/home/daslab/test_bitcoin_data/2009/2009-11-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-23/ start: Tue Aug 24 15:04:54 2021
+
+101
+0   101
+/home/daslab/test_bitcoin_data/2009/2009-11-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-24/ start: Tue Aug 24 15:04:54 2021
+
+94
+0   94
+/home/daslab/test_bitcoin_data/2009/2009-11-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-25/ start: Tue Aug 24 15:04:54 2021
+
+102
+0   102
+/home/daslab/test_bitcoin_data/2009/2009-11-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-26/ start: Tue Aug 24 15:04:54 2021
+
+87
+0   87
+/home/daslab/test_bitcoin_data/2009/2009-11-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-27/ start: Tue Aug 24 15:04:54 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-11-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-28/ start: Tue Aug 24 15:04:54 2021
+
+74
+0   74
+/home/daslab/test_bitcoin_data/2009/2009-11-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-29/ start: Tue Aug 24 15:04:54 2021
+
+79
+0   79
+/home/daslab/test_bitcoin_data/2009/2009-11-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-11-30/ start: Tue Aug 24 15:04:54 2021
+
+56
+0   56
+/home/daslab/test_bitcoin_data/2009/2009-11-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-01/ start: Tue Aug 24 15:04:54 2021
+
+75
+0   75
+/home/daslab/test_bitcoin_data/2009/2009-12-01/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-02/ start: Tue Aug 24 15:04:54 2021
+
+66
+0   66
+/home/daslab/test_bitcoin_data/2009/2009-12-02/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-03/ start: Tue Aug 24 15:04:54 2021
+
+98
+0   98
+/home/daslab/test_bitcoin_data/2009/2009-12-03/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-04/ start: Tue Aug 24 15:04:54 2021
+
+78
+0   78
+/home/daslab/test_bitcoin_data/2009/2009-12-04/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-05/ start: Tue Aug 24 15:04:54 2021
+
+59
+0   59
+/home/daslab/test_bitcoin_data/2009/2009-12-05/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-06/ start: Tue Aug 24 15:04:54 2021
+
+53
+0   53
+/home/daslab/test_bitcoin_data/2009/2009-12-06/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-07/ start: Tue Aug 24 15:04:54 2021
+
+101
+0   101
+/home/daslab/test_bitcoin_data/2009/2009-12-07/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-08/ start: Tue Aug 24 15:04:54 2021
+
+95
+0   95
+/home/daslab/test_bitcoin_data/2009/2009-12-08/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-09/ start: Tue Aug 24 15:04:54 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-12-09/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-10/ start: Tue Aug 24 15:04:54 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-12-10/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-11/ start: Tue Aug 24 15:04:54 2021
+
+104
+0   104
+/home/daslab/test_bitcoin_data/2009/2009-12-11/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-12/ start: Tue Aug 24 15:04:54 2021
+
+130
+0   130
+/home/daslab/test_bitcoin_data/2009/2009-12-12/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-13/ start: Tue Aug 24 15:04:54 2021
+
+100
+0   100
+/home/daslab/test_bitcoin_data/2009/2009-12-13/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-14/ start: Tue Aug 24 15:04:54 2021
+
+103
+0   103
+/home/daslab/test_bitcoin_data/2009/2009-12-14/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-15/ start: Tue Aug 24 15:04:54 2021
+
+109
+0   109
+/home/daslab/test_bitcoin_data/2009/2009-12-15/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-16/ start: Tue Aug 24 15:04:54 2021
+
+120
+0   120
+/home/daslab/test_bitcoin_data/2009/2009-12-16/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-17/ start: Tue Aug 24 15:04:54 2021
+
+117
+0   117
+/home/daslab/test_bitcoin_data/2009/2009-12-17/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-18/ start: Tue Aug 24 15:04:54 2021
+
+163
+0   163
+/home/daslab/test_bitcoin_data/2009/2009-12-18/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-19/ start: Tue Aug 24 15:04:54 2021
+
+194
+0   194
+/home/daslab/test_bitcoin_data/2009/2009-12-19/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-20/ start: Tue Aug 24 15:04:54 2021
+
+224
+0   224
+/home/daslab/test_bitcoin_data/2009/2009-12-20/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-21/ start: Tue Aug 24 15:04:54 2021
+
+182
+0   182
+/home/daslab/test_bitcoin_data/2009/2009-12-21/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-22/ start: Tue Aug 24 15:04:54 2021
+
+188
+0   188
+/home/daslab/test_bitcoin_data/2009/2009-12-22/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-23/ start: Tue Aug 24 15:04:54 2021
+
+153
+0   153
+/home/daslab/test_bitcoin_data/2009/2009-12-23/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-24/ start: Tue Aug 24 15:04:54 2021
+
+173
+0   173
+/home/daslab/test_bitcoin_data/2009/2009-12-24/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-25/ start: Tue Aug 24 15:04:54 2021
+
+142
+0   142
+/home/daslab/test_bitcoin_data/2009/2009-12-25/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-26/ start: Tue Aug 24 15:04:54 2021
+
+164
+0   164
+/home/daslab/test_bitcoin_data/2009/2009-12-26/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-27/ start: Tue Aug 24 15:04:54 2021
+
+148
+0   148
+/home/daslab/test_bitcoin_data/2009/2009-12-27/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-28/ start: Tue Aug 24 15:04:54 2021
+
+169
+0   169
+/home/daslab/test_bitcoin_data/2009/2009-12-28/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-29/ start: Tue Aug 24 15:04:54 2021
+
+144
+0   144
+/home/daslab/test_bitcoin_data/2009/2009-12-29/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-30/ start: Tue Aug 24 15:04:54 2021
+
+172
+0   172
+/home/daslab/test_bitcoin_data/2009/2009-12-30/ write finish
+/home/daslab/test_bitcoin_data/2009/2009-12-31/ start: Tue Aug 24 15:04:54 2021
+
+154
+0   154
+/home/daslab/test_bitcoin_data/2009/2009-12-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-01/ start: Tue Aug 24 15:04:54 2021
+
+140
+0   140
+/home/daslab/test_bitcoin_data/2010/2010-01-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-02/ start: Tue Aug 24 15:04:54 2021
+
+127
+0   127
+/home/daslab/test_bitcoin_data/2010/2010-01-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-03/ start: Tue Aug 24 15:04:54 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2010/2010-01-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-04/ start: Tue Aug 24 15:04:54 2021
+
+156
+0   156
+/home/daslab/test_bitcoin_data/2010/2010-01-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-05/ start: Tue Aug 24 15:04:54 2021
+
+200
+0   200
+/home/daslab/test_bitcoin_data/2010/2010-01-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-06/ start: Tue Aug 24 15:04:54 2021
+
+205
+0   205
+/home/daslab/test_bitcoin_data/2010/2010-01-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-07/ start: Tue Aug 24 15:04:54 2021
+
+161
+0   161
+/home/daslab/test_bitcoin_data/2010/2010-01-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-08/ start: Tue Aug 24 15:04:54 2021
+
+152
+0   152
+/home/daslab/test_bitcoin_data/2010/2010-01-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-09/ start: Tue Aug 24 15:04:54 2021
+
+158
+0   158
+/home/daslab/test_bitcoin_data/2010/2010-01-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-10/ start: Tue Aug 24 15:04:54 2021
+
+149
+0   149
+/home/daslab/test_bitcoin_data/2010/2010-01-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-11/ start: Tue Aug 24 15:04:54 2021
+
+175
+0   175
+/home/daslab/test_bitcoin_data/2010/2010-01-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-12/ start: Tue Aug 24 15:04:54 2021
+
+164
+0   164
+/home/daslab/test_bitcoin_data/2010/2010-01-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-13/ start: Tue Aug 24 15:04:54 2021
+
+170
+0   170
+/home/daslab/test_bitcoin_data/2010/2010-01-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-14/ start: Tue Aug 24 15:04:54 2021
+
+157
+0   157
+/home/daslab/test_bitcoin_data/2010/2010-01-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-15/ start: Tue Aug 24 15:04:54 2021
+
+151
+0   151
+/home/daslab/test_bitcoin_data/2010/2010-01-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-16/ start: Tue Aug 24 15:04:54 2021
+
+150
+0   150
+/home/daslab/test_bitcoin_data/2010/2010-01-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-17/ start: Tue Aug 24 15:04:54 2021
+
+139
+0   139
+/home/daslab/test_bitcoin_data/2010/2010-01-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-18/ start: Tue Aug 24 15:04:54 2021
+
+119
+0   119
+/home/daslab/test_bitcoin_data/2010/2010-01-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-19/ start: Tue Aug 24 15:04:54 2021
+
+131
+0   131
+/home/daslab/test_bitcoin_data/2010/2010-01-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-20/ start: Tue Aug 24 15:04:54 2021
+
+122
+0   122
+/home/daslab/test_bitcoin_data/2010/2010-01-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-21/ start: Tue Aug 24 15:04:54 2021
+
+137
+0   137
+/home/daslab/test_bitcoin_data/2010/2010-01-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-22/ start: Tue Aug 24 15:04:54 2021
+
+183
+0   183
+/home/daslab/test_bitcoin_data/2010/2010-01-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-23/ start: Tue Aug 24 15:04:54 2021
+
+159
+0   159
+/home/daslab/test_bitcoin_data/2010/2010-01-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-24/ start: Tue Aug 24 15:04:54 2021
+
+143
+0   143
+/home/daslab/test_bitcoin_data/2010/2010-01-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-25/ start: Tue Aug 24 15:04:55 2021
+
+153
+0   153
+/home/daslab/test_bitcoin_data/2010/2010-01-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-26/ start: Tue Aug 24 15:04:55 2021
+
+207
+0   207
+/home/daslab/test_bitcoin_data/2010/2010-01-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-27/ start: Tue Aug 24 15:04:55 2021
+
+202
+0   202
+/home/daslab/test_bitcoin_data/2010/2010-01-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-28/ start: Tue Aug 24 15:04:55 2021
+
+188
+0   188
+/home/daslab/test_bitcoin_data/2010/2010-01-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-29/ start: Tue Aug 24 15:04:55 2021
+
+170
+0   170
+/home/daslab/test_bitcoin_data/2010/2010-01-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-30/ start: Tue Aug 24 15:04:55 2021
+
+195
+0   195
+/home/daslab/test_bitcoin_data/2010/2010-01-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-01-31/ start: Tue Aug 24 15:04:55 2021
+
+188
+0   188
+/home/daslab/test_bitcoin_data/2010/2010-01-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-01/ start: Tue Aug 24 15:04:55 2021
+
+207
+0   207
+/home/daslab/test_bitcoin_data/2010/2010-02-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-02/ start: Tue Aug 24 15:04:55 2021
+
+181
+0   181
+/home/daslab/test_bitcoin_data/2010/2010-02-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-03/ start: Tue Aug 24 15:04:55 2021
+
+147
+0   147
+/home/daslab/test_bitcoin_data/2010/2010-02-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-04/ start: Tue Aug 24 15:04:55 2021
+
+238
+0   238
+/home/daslab/test_bitcoin_data/2010/2010-02-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-05/ start: Tue Aug 24 15:04:55 2021
+
+231
+0   231
+/home/daslab/test_bitcoin_data/2010/2010-02-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-06/ start: Tue Aug 24 15:04:55 2021
+
+257
+0   257
+/home/daslab/test_bitcoin_data/2010/2010-02-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-07/ start: Tue Aug 24 15:04:55 2021
+
+201
+0   201
+/home/daslab/test_bitcoin_data/2010/2010-02-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-08/ start: Tue Aug 24 15:04:55 2021
+
+206
+0   206
+/home/daslab/test_bitcoin_data/2010/2010-02-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-09/ start: Tue Aug 24 15:04:55 2021
+
+234
+0   234
+/home/daslab/test_bitcoin_data/2010/2010-02-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-10/ start: Tue Aug 24 15:04:55 2021
+
+210
+0   210
+/home/daslab/test_bitcoin_data/2010/2010-02-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-11/ start: Tue Aug 24 15:04:55 2021
+
+175
+0   175
+/home/daslab/test_bitcoin_data/2010/2010-02-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-12/ start: Tue Aug 24 15:04:55 2021
+
+178
+0   178
+/home/daslab/test_bitcoin_data/2010/2010-02-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-13/ start: Tue Aug 24 15:04:55 2021
+
+187
+0   187
+/home/daslab/test_bitcoin_data/2010/2010-02-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-14/ start: Tue Aug 24 15:04:55 2021
+
+227
+0   227
+/home/daslab/test_bitcoin_data/2010/2010-02-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-15/ start: Tue Aug 24 15:04:55 2021
+
+213
+0   213
+/home/daslab/test_bitcoin_data/2010/2010-02-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-16/ start: Tue Aug 24 15:04:55 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-02-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-17/ start: Tue Aug 24 15:04:55 2021
+
+187
+0   187
+/home/daslab/test_bitcoin_data/2010/2010-02-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-18/ start: Tue Aug 24 15:04:55 2021
+
+229
+0   229
+/home/daslab/test_bitcoin_data/2010/2010-02-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-19/ start: Tue Aug 24 15:04:55 2021
+
+252
+0   252
+/home/daslab/test_bitcoin_data/2010/2010-02-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-20/ start: Tue Aug 24 15:04:55 2021
+
+173
+0   173
+/home/daslab/test_bitcoin_data/2010/2010-02-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-21/ start: Tue Aug 24 15:04:55 2021
+
+236
+0   236
+/home/daslab/test_bitcoin_data/2010/2010-02-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-22/ start: Tue Aug 24 15:04:55 2021
+
+212
+0   212
+/home/daslab/test_bitcoin_data/2010/2010-02-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-23/ start: Tue Aug 24 15:04:55 2021
+
+257
+0   257
+/home/daslab/test_bitcoin_data/2010/2010-02-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-24/ start: Tue Aug 24 15:04:55 2021
+
+240
+0   240
+/home/daslab/test_bitcoin_data/2010/2010-02-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-25/ start: Tue Aug 24 15:04:55 2021
+
+219
+0   219
+/home/daslab/test_bitcoin_data/2010/2010-02-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-26/ start: Tue Aug 24 15:04:55 2021
+
+148
+0   148
+/home/daslab/test_bitcoin_data/2010/2010-02-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-27/ start: Tue Aug 24 15:04:55 2021
+
+177
+0   177
+/home/daslab/test_bitcoin_data/2010/2010-02-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-02-28/ start: Tue Aug 24 15:04:55 2021
+
+171
+0   171
+/home/daslab/test_bitcoin_data/2010/2010-02-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-01/ start: Tue Aug 24 15:04:55 2021
+
+170
+0   170
+/home/daslab/test_bitcoin_data/2010/2010-03-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-02/ start: Tue Aug 24 15:04:55 2021
+
+182
+0   182
+/home/daslab/test_bitcoin_data/2010/2010-03-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-03/ start: Tue Aug 24 15:04:55 2021
+
+207
+0   207
+/home/daslab/test_bitcoin_data/2010/2010-03-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-04/ start: Tue Aug 24 15:04:55 2021
+
+155
+0   155
+/home/daslab/test_bitcoin_data/2010/2010-03-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-05/ start: Tue Aug 24 15:04:55 2021
+
+171
+0   171
+/home/daslab/test_bitcoin_data/2010/2010-03-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-06/ start: Tue Aug 24 15:04:55 2021
+
+194
+0   194
+/home/daslab/test_bitcoin_data/2010/2010-03-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-07/ start: Tue Aug 24 15:04:55 2021
+
+183
+0   183
+/home/daslab/test_bitcoin_data/2010/2010-03-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-08/ start: Tue Aug 24 15:04:55 2021
+
+166
+0   166
+/home/daslab/test_bitcoin_data/2010/2010-03-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-09/ start: Tue Aug 24 15:04:55 2021
+
+157
+0   157
+/home/daslab/test_bitcoin_data/2010/2010-03-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-10/ start: Tue Aug 24 15:04:55 2021
+
+151
+0   151
+/home/daslab/test_bitcoin_data/2010/2010-03-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-11/ start: Tue Aug 24 15:04:55 2021
+
+144
+0   144
+/home/daslab/test_bitcoin_data/2010/2010-03-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-12/ start: Tue Aug 24 15:04:55 2021
+
+154
+0   154
+/home/daslab/test_bitcoin_data/2010/2010-03-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-13/ start: Tue Aug 24 15:04:55 2021
+
+126
+0   126
+/home/daslab/test_bitcoin_data/2010/2010-03-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-14/ start: Tue Aug 24 15:04:55 2021
+
+155
+0   155
+/home/daslab/test_bitcoin_data/2010/2010-03-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-15/ start: Tue Aug 24 15:04:55 2021
+
+128
+0   128
+/home/daslab/test_bitcoin_data/2010/2010-03-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-16/ start: Tue Aug 24 15:04:55 2021
+
+135
+0   135
+/home/daslab/test_bitcoin_data/2010/2010-03-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-17/ start: Tue Aug 24 15:04:55 2021
+
+134
+0   134
+/home/daslab/test_bitcoin_data/2010/2010-03-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-18/ start: Tue Aug 24 15:04:55 2021
+
+126
+0   126
+/home/daslab/test_bitcoin_data/2010/2010-03-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-19/ start: Tue Aug 24 15:04:55 2021
+
+161
+0   161
+/home/daslab/test_bitcoin_data/2010/2010-03-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-20/ start: Tue Aug 24 15:04:55 2021
+
+145
+0   145
+/home/daslab/test_bitcoin_data/2010/2010-03-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-21/ start: Tue Aug 24 15:04:55 2021
+
+195
+0   195
+/home/daslab/test_bitcoin_data/2010/2010-03-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-22/ start: Tue Aug 24 15:04:55 2021
+
+194
+0   194
+/home/daslab/test_bitcoin_data/2010/2010-03-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-23/ start: Tue Aug 24 15:04:55 2021
+
+184
+0   184
+/home/daslab/test_bitcoin_data/2010/2010-03-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-24/ start: Tue Aug 24 15:04:55 2021
+
+209
+0   209
+/home/daslab/test_bitcoin_data/2010/2010-03-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-25/ start: Tue Aug 24 15:04:55 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-03-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-26/ start: Tue Aug 24 15:04:55 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-03-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-27/ start: Tue Aug 24 15:04:55 2021
+
+218
+0   218
+/home/daslab/test_bitcoin_data/2010/2010-03-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-28/ start: Tue Aug 24 15:04:55 2021
+
+180
+0   180
+/home/daslab/test_bitcoin_data/2010/2010-03-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-29/ start: Tue Aug 24 15:04:56 2021
+
+201
+0   201
+/home/daslab/test_bitcoin_data/2010/2010-03-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-30/ start: Tue Aug 24 15:04:56 2021
+
+197
+0   197
+/home/daslab/test_bitcoin_data/2010/2010-03-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-03-31/ start: Tue Aug 24 15:04:56 2021
+
+219
+0   219
+/home/daslab/test_bitcoin_data/2010/2010-03-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-01/ start: Tue Aug 24 15:04:56 2021
+
+219
+0   219
+/home/daslab/test_bitcoin_data/2010/2010-04-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-02/ start: Tue Aug 24 15:04:56 2021
+
+197
+0   197
+/home/daslab/test_bitcoin_data/2010/2010-04-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-03/ start: Tue Aug 24 15:04:56 2021
+
+156
+0   156
+/home/daslab/test_bitcoin_data/2010/2010-04-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-04/ start: Tue Aug 24 15:04:56 2021
+
+179
+0   179
+/home/daslab/test_bitcoin_data/2010/2010-04-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-05/ start: Tue Aug 24 15:04:56 2021
+
+168
+0   168
+/home/daslab/test_bitcoin_data/2010/2010-04-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-06/ start: Tue Aug 24 15:04:56 2021
+
+178
+0   178
+/home/daslab/test_bitcoin_data/2010/2010-04-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-07/ start: Tue Aug 24 15:04:56 2021
+
+180
+0   180
+/home/daslab/test_bitcoin_data/2010/2010-04-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-08/ start: Tue Aug 24 15:04:56 2021
+
+203
+0   203
+/home/daslab/test_bitcoin_data/2010/2010-04-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-09/ start: Tue Aug 24 15:04:56 2021
+
+207
+0   207
+/home/daslab/test_bitcoin_data/2010/2010-04-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-10/ start: Tue Aug 24 15:04:56 2021
+
+189
+0   189
+/home/daslab/test_bitcoin_data/2010/2010-04-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-11/ start: Tue Aug 24 15:04:56 2021
+
+276
+0   276
+/home/daslab/test_bitcoin_data/2010/2010-04-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-12/ start: Tue Aug 24 15:04:56 2021
+
+277
+0   277
+/home/daslab/test_bitcoin_data/2010/2010-04-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-13/ start: Tue Aug 24 15:04:56 2021
+
+277
+0   277
+/home/daslab/test_bitcoin_data/2010/2010-04-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-14/ start: Tue Aug 24 15:04:56 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-04-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-15/ start: Tue Aug 24 15:04:56 2021
+
+232
+0   232
+/home/daslab/test_bitcoin_data/2010/2010-04-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-16/ start: Tue Aug 24 15:04:56 2021
+
+278
+0   278
+/home/daslab/test_bitcoin_data/2010/2010-04-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-17/ start: Tue Aug 24 15:04:56 2021
+
+239
+0   239
+/home/daslab/test_bitcoin_data/2010/2010-04-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-18/ start: Tue Aug 24 15:04:56 2021
+
+247
+0   247
+/home/daslab/test_bitcoin_data/2010/2010-04-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-19/ start: Tue Aug 24 15:04:56 2021
+
+323
+0   323
+/home/daslab/test_bitcoin_data/2010/2010-04-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-20/ start: Tue Aug 24 15:04:56 2021
+
+3306
+0   3306
+/home/daslab/test_bitcoin_data/2010/2010-04-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-21/ start: Tue Aug 24 15:04:56 2021
+
+241
+0   241
+/home/daslab/test_bitcoin_data/2010/2010-04-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-22/ start: Tue Aug 24 15:04:56 2021
+
+244
+0   244
+/home/daslab/test_bitcoin_data/2010/2010-04-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-23/ start: Tue Aug 24 15:04:56 2021
+
+223
+0   223
+/home/daslab/test_bitcoin_data/2010/2010-04-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-24/ start: Tue Aug 24 15:04:56 2021
+
+190
+0   190
+/home/daslab/test_bitcoin_data/2010/2010-04-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-25/ start: Tue Aug 24 15:04:56 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-04-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-26/ start: Tue Aug 24 15:04:57 2021
+
+216
+0   216
+/home/daslab/test_bitcoin_data/2010/2010-04-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-27/ start: Tue Aug 24 15:04:57 2021
+
+222
+0   222
+/home/daslab/test_bitcoin_data/2010/2010-04-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-28/ start: Tue Aug 24 15:04:57 2021
+
+221
+0   221
+/home/daslab/test_bitcoin_data/2010/2010-04-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-29/ start: Tue Aug 24 15:04:57 2021
+
+219
+0   219
+/home/daslab/test_bitcoin_data/2010/2010-04-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-04-30/ start: Tue Aug 24 15:04:57 2021
+
+197
+0   197
+/home/daslab/test_bitcoin_data/2010/2010-04-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-01/ start: Tue Aug 24 15:04:57 2021
+
+185
+0   185
+/home/daslab/test_bitcoin_data/2010/2010-05-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-02/ start: Tue Aug 24 15:04:57 2021
+
+181
+0   181
+/home/daslab/test_bitcoin_data/2010/2010-05-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-03/ start: Tue Aug 24 15:04:57 2021
+
+205
+0   205
+/home/daslab/test_bitcoin_data/2010/2010-05-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-04/ start: Tue Aug 24 15:04:57 2021
+
+189
+0   189
+/home/daslab/test_bitcoin_data/2010/2010-05-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-05/ start: Tue Aug 24 15:04:57 2021
+
+144
+0   144
+/home/daslab/test_bitcoin_data/2010/2010-05-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-06/ start: Tue Aug 24 15:04:57 2021
+
+195
+0   195
+/home/daslab/test_bitcoin_data/2010/2010-05-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-07/ start: Tue Aug 24 15:04:57 2021
+
+166
+0   166
+/home/daslab/test_bitcoin_data/2010/2010-05-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-08/ start: Tue Aug 24 15:04:57 2021
+
+173
+0   173
+/home/daslab/test_bitcoin_data/2010/2010-05-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-09/ start: Tue Aug 24 15:04:57 2021
+
+165
+0   165
+/home/daslab/test_bitcoin_data/2010/2010-05-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-10/ start: Tue Aug 24 15:04:57 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-05-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-11/ start: Tue Aug 24 15:04:57 2021
+
+168
+0   168
+/home/daslab/test_bitcoin_data/2010/2010-05-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-12/ start: Tue Aug 24 15:04:57 2021
+
+134
+0   134
+/home/daslab/test_bitcoin_data/2010/2010-05-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-13/ start: Tue Aug 24 15:04:57 2021
+
+150
+0   150
+/home/daslab/test_bitcoin_data/2010/2010-05-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-14/ start: Tue Aug 24 15:04:57 2021
+
+153
+0   153
+/home/daslab/test_bitcoin_data/2010/2010-05-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-15/ start: Tue Aug 24 15:04:57 2021
+
+158
+0   158
+/home/daslab/test_bitcoin_data/2010/2010-05-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-16/ start: Tue Aug 24 15:04:57 2021
+
+139
+0   139
+/home/daslab/test_bitcoin_data/2010/2010-05-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-17/ start: Tue Aug 24 15:04:57 2021
+
+118
+0   118
+/home/daslab/test_bitcoin_data/2010/2010-05-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-18/ start: Tue Aug 24 15:04:57 2021
+
+168
+0   168
+/home/daslab/test_bitcoin_data/2010/2010-05-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-19/ start: Tue Aug 24 15:04:57 2021
+
+212
+0   212
+/home/daslab/test_bitcoin_data/2010/2010-05-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-20/ start: Tue Aug 24 15:04:57 2021
+
+203
+0   203
+/home/daslab/test_bitcoin_data/2010/2010-05-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-21/ start: Tue Aug 24 15:04:57 2021
+
+235
+0   235
+/home/daslab/test_bitcoin_data/2010/2010-05-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-22/ start: Tue Aug 24 15:04:57 2021
+
+228
+0   228
+/home/daslab/test_bitcoin_data/2010/2010-05-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-23/ start: Tue Aug 24 15:04:57 2021
+
+225
+0   225
+/home/daslab/test_bitcoin_data/2010/2010-05-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-24/ start: Tue Aug 24 15:04:57 2021
+
+294
+0   294
+/home/daslab/test_bitcoin_data/2010/2010-05-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-25/ start: Tue Aug 24 15:04:57 2021
+
+262
+0   262
+/home/daslab/test_bitcoin_data/2010/2010-05-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-26/ start: Tue Aug 24 15:04:57 2021
+
+266
+0   266
+/home/daslab/test_bitcoin_data/2010/2010-05-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-27/ start: Tue Aug 24 15:04:57 2021
+
+266
+0   266
+/home/daslab/test_bitcoin_data/2010/2010-05-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-28/ start: Tue Aug 24 15:04:57 2021
+
+267
+0   267
+/home/daslab/test_bitcoin_data/2010/2010-05-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-29/ start: Tue Aug 24 15:04:57 2021
+
+264
+0   264
+/home/daslab/test_bitcoin_data/2010/2010-05-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-30/ start: Tue Aug 24 15:04:57 2021
+
+280
+0   280
+/home/daslab/test_bitcoin_data/2010/2010-05-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-05-31/ start: Tue Aug 24 15:04:57 2021
+
+202
+0   202
+/home/daslab/test_bitcoin_data/2010/2010-05-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-01/ start: Tue Aug 24 15:04:57 2021
+
+193
+0   193
+/home/daslab/test_bitcoin_data/2010/2010-06-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-02/ start: Tue Aug 24 15:04:57 2021
+
+181
+0   181
+/home/daslab/test_bitcoin_data/2010/2010-06-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-03/ start: Tue Aug 24 15:04:57 2021
+
+187
+0   187
+/home/daslab/test_bitcoin_data/2010/2010-06-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-04/ start: Tue Aug 24 15:04:57 2021
+
+204
+0   204
+/home/daslab/test_bitcoin_data/2010/2010-06-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-05/ start: Tue Aug 24 15:04:57 2021
+
+218
+0   218
+/home/daslab/test_bitcoin_data/2010/2010-06-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-06/ start: Tue Aug 24 15:04:57 2021
+
+182
+0   182
+/home/daslab/test_bitcoin_data/2010/2010-06-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-07/ start: Tue Aug 24 15:04:57 2021
+
+204
+0   204
+/home/daslab/test_bitcoin_data/2010/2010-06-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-08/ start: Tue Aug 24 15:04:57 2021
+
+196
+0   196
+/home/daslab/test_bitcoin_data/2010/2010-06-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-09/ start: Tue Aug 24 15:04:57 2021
+
+226
+0   226
+/home/daslab/test_bitcoin_data/2010/2010-06-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-10/ start: Tue Aug 24 15:04:58 2021
+
+211
+0   211
+/home/daslab/test_bitcoin_data/2010/2010-06-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-11/ start: Tue Aug 24 15:04:58 2021
+
+211
+0   211
+/home/daslab/test_bitcoin_data/2010/2010-06-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-12/ start: Tue Aug 24 15:04:58 2021
+
+246
+0   246
+/home/daslab/test_bitcoin_data/2010/2010-06-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-13/ start: Tue Aug 24 15:04:58 2021
+
+229
+0   229
+/home/daslab/test_bitcoin_data/2010/2010-06-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-14/ start: Tue Aug 24 15:04:58 2021
+
+222
+0   222
+/home/daslab/test_bitcoin_data/2010/2010-06-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-15/ start: Tue Aug 24 15:04:58 2021
+
+245
+0   245
+/home/daslab/test_bitcoin_data/2010/2010-06-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-16/ start: Tue Aug 24 15:04:58 2021
+
+281
+0   281
+/home/daslab/test_bitcoin_data/2010/2010-06-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-17/ start: Tue Aug 24 15:04:58 2021
+
+215
+0   215
+/home/daslab/test_bitcoin_data/2010/2010-06-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-18/ start: Tue Aug 24 15:04:58 2021
+
+192
+0   192
+/home/daslab/test_bitcoin_data/2010/2010-06-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-19/ start: Tue Aug 24 15:04:58 2021
+
+196
+0   196
+/home/daslab/test_bitcoin_data/2010/2010-06-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-20/ start: Tue Aug 24 15:04:58 2021
+
+217
+0   217
+/home/daslab/test_bitcoin_data/2010/2010-06-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-21/ start: Tue Aug 24 15:04:58 2021
+
+214
+0   214
+/home/daslab/test_bitcoin_data/2010/2010-06-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-22/ start: Tue Aug 24 15:04:58 2021
+
+238
+0   238
+/home/daslab/test_bitcoin_data/2010/2010-06-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-23/ start: Tue Aug 24 15:04:58 2021
+
+237
+0   237
+/home/daslab/test_bitcoin_data/2010/2010-06-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-24/ start: Tue Aug 24 15:04:58 2021
+
+243
+0   243
+/home/daslab/test_bitcoin_data/2010/2010-06-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-25/ start: Tue Aug 24 15:04:58 2021
+
+243
+0   243
+/home/daslab/test_bitcoin_data/2010/2010-06-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-26/ start: Tue Aug 24 15:04:58 2021
+
+242
+0   242
+/home/daslab/test_bitcoin_data/2010/2010-06-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-27/ start: Tue Aug 24 15:04:58 2021
+
+201
+0   201
+/home/daslab/test_bitcoin_data/2010/2010-06-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-28/ start: Tue Aug 24 15:04:58 2021
+
+213
+0   213
+/home/daslab/test_bitcoin_data/2010/2010-06-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-29/ start: Tue Aug 24 15:04:58 2021
+
+222
+0   222
+/home/daslab/test_bitcoin_data/2010/2010-06-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-06-30/ start: Tue Aug 24 15:04:58 2021
+
+265
+0   265
+/home/daslab/test_bitcoin_data/2010/2010-06-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-01/ start: Tue Aug 24 15:04:58 2021
+
+268
+0   268
+/home/daslab/test_bitcoin_data/2010/2010-07-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-02/ start: Tue Aug 24 15:04:58 2021
+
+269
+0   269
+/home/daslab/test_bitcoin_data/2010/2010-07-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-03/ start: Tue Aug 24 15:04:58 2021
+
+256
+0   256
+/home/daslab/test_bitcoin_data/2010/2010-07-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-04/ start: Tue Aug 24 15:04:58 2021
+
+285
+0   285
+/home/daslab/test_bitcoin_data/2010/2010-07-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-05/ start: Tue Aug 24 15:04:58 2021
+
+245
+0   245
+/home/daslab/test_bitcoin_data/2010/2010-07-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-06/ start: Tue Aug 24 15:04:58 2021
+
+237
+0   237
+/home/daslab/test_bitcoin_data/2010/2010-07-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-07/ start: Tue Aug 24 15:04:58 2021
+
+236
+0   236
+/home/daslab/test_bitcoin_data/2010/2010-07-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-08/ start: Tue Aug 24 15:04:58 2021
+
+209
+0   209
+/home/daslab/test_bitcoin_data/2010/2010-07-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-09/ start: Tue Aug 24 15:04:58 2021
+
+227
+0   227
+/home/daslab/test_bitcoin_data/2010/2010-07-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-10/ start: Tue Aug 24 15:04:58 2021
+
+264
+0   264
+/home/daslab/test_bitcoin_data/2010/2010-07-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-11/ start: Tue Aug 24 15:04:58 2021
+
+233
+0   233
+/home/daslab/test_bitcoin_data/2010/2010-07-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-12/ start: Tue Aug 24 15:04:58 2021
+
+244
+0   244
+/home/daslab/test_bitcoin_data/2010/2010-07-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-13/ start: Tue Aug 24 15:04:58 2021
+
+1614
+0   1614
+/home/daslab/test_bitcoin_data/2010/2010-07-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-14/ start: Tue Aug 24 15:04:59 2021
+
+1865
+0   1865
+/home/daslab/test_bitcoin_data/2010/2010-07-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-15/ start: Tue Aug 24 15:04:59 2021
+
+2499
+0   2499
+/home/daslab/test_bitcoin_data/2010/2010-07-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-16/ start: Tue Aug 24 15:04:59 2021
+
+4942
+0   4942
+/home/daslab/test_bitcoin_data/2010/2010-07-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-17/ start: Tue Aug 24 15:05:00 2021
+
+1398
+0   1398
+/home/daslab/test_bitcoin_data/2010/2010-07-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-18/ start: Tue Aug 24 15:05:00 2021
+
+540
+0   540
+/home/daslab/test_bitcoin_data/2010/2010-07-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-19/ start: Tue Aug 24 15:05:00 2021
+
+437
+0   437
+/home/daslab/test_bitcoin_data/2010/2010-07-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-20/ start: Tue Aug 24 15:05:00 2021
+
+469
+0   469
+/home/daslab/test_bitcoin_data/2010/2010-07-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-21/ start: Tue Aug 24 15:05:00 2021
+
+641
+0   641
+/home/daslab/test_bitcoin_data/2010/2010-07-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-22/ start: Tue Aug 24 15:05:00 2021
+
+455
+0   455
+/home/daslab/test_bitcoin_data/2010/2010-07-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-23/ start: Tue Aug 24 15:05:00 2021
+
+431
+0   431
+/home/daslab/test_bitcoin_data/2010/2010-07-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-24/ start: Tue Aug 24 15:05:00 2021
+
+396
+0   396
+/home/daslab/test_bitcoin_data/2010/2010-07-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-25/ start: Tue Aug 24 15:05:00 2021
+
+375
+0   375
+/home/daslab/test_bitcoin_data/2010/2010-07-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-26/ start: Tue Aug 24 15:05:01 2021
+
+2340
+0   2340
+/home/daslab/test_bitcoin_data/2010/2010-07-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-27/ start: Tue Aug 24 15:05:01 2021
+
+451
+0   451
+/home/daslab/test_bitcoin_data/2010/2010-07-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-28/ start: Tue Aug 24 15:05:01 2021
+
+439
+0   439
+/home/daslab/test_bitcoin_data/2010/2010-07-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-29/ start: Tue Aug 24 15:05:01 2021
+
+372
+0   372
+/home/daslab/test_bitcoin_data/2010/2010-07-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-30/ start: Tue Aug 24 15:05:01 2021
+
+3455
+0   3455
+/home/daslab/test_bitcoin_data/2010/2010-07-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-07-31/ start: Tue Aug 24 15:05:01 2021
+
+367
+0   367
+/home/daslab/test_bitcoin_data/2010/2010-07-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-01/ start: Tue Aug 24 15:05:01 2021
+
+283
+0   283
+/home/daslab/test_bitcoin_data/2010/2010-08-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-02/ start: Tue Aug 24 15:05:02 2021
+
+326
+0   326
+/home/daslab/test_bitcoin_data/2010/2010-08-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-03/ start: Tue Aug 24 15:05:02 2021
+
+404
+0   404
+/home/daslab/test_bitcoin_data/2010/2010-08-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-04/ start: Tue Aug 24 15:05:02 2021
+
+563
+0   563
+/home/daslab/test_bitcoin_data/2010/2010-08-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-05/ start: Tue Aug 24 15:05:02 2021
+
+437
+0   437
+/home/daslab/test_bitcoin_data/2010/2010-08-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-06/ start: Tue Aug 24 15:05:02 2021
+
+606
+0   606
+/home/daslab/test_bitcoin_data/2010/2010-08-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-07/ start: Tue Aug 24 15:05:02 2021
+
+382
+0   382
+/home/daslab/test_bitcoin_data/2010/2010-08-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-08/ start: Tue Aug 24 15:05:02 2021
+
+292
+0   292
+/home/daslab/test_bitcoin_data/2010/2010-08-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-09/ start: Tue Aug 24 15:05:02 2021
+
+320
+0   320
+/home/daslab/test_bitcoin_data/2010/2010-08-09/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-10/ start: Tue Aug 24 15:05:02 2021
+
+405
+0   405
+/home/daslab/test_bitcoin_data/2010/2010-08-10/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-11/ start: Tue Aug 24 15:05:02 2021
+
+415
+0   415
+/home/daslab/test_bitcoin_data/2010/2010-08-11/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-12/ start: Tue Aug 24 15:05:02 2021
+
+376
+0   376
+/home/daslab/test_bitcoin_data/2010/2010-08-12/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-13/ start: Tue Aug 24 15:05:02 2021
+
+397
+0   397
+/home/daslab/test_bitcoin_data/2010/2010-08-13/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-14/ start: Tue Aug 24 15:05:02 2021
+
+520
+0   520
+/home/daslab/test_bitcoin_data/2010/2010-08-14/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-15/ start: Tue Aug 24 15:05:02 2021
+
+403
+0   403
+/home/daslab/test_bitcoin_data/2010/2010-08-15/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-16/ start: Tue Aug 24 15:05:02 2021
+
+455
+0   455
+/home/daslab/test_bitcoin_data/2010/2010-08-16/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-17/ start: Tue Aug 24 15:05:02 2021
+
+284
+0   284
+/home/daslab/test_bitcoin_data/2010/2010-08-17/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-18/ start: Tue Aug 24 15:05:02 2021
+
+378
+0   378
+/home/daslab/test_bitcoin_data/2010/2010-08-18/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-19/ start: Tue Aug 24 15:05:02 2021
+
+361
+0   361
+/home/daslab/test_bitcoin_data/2010/2010-08-19/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-20/ start: Tue Aug 24 15:05:02 2021
+
+378
+0   378
+/home/daslab/test_bitcoin_data/2010/2010-08-20/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-21/ start: Tue Aug 24 15:05:03 2021
+
+411
+0   411
+/home/daslab/test_bitcoin_data/2010/2010-08-21/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-22/ start: Tue Aug 24 15:05:03 2021
+
+351
+0   351
+/home/daslab/test_bitcoin_data/2010/2010-08-22/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-23/ start: Tue Aug 24 15:05:03 2021
+
+331
+0   331
+/home/daslab/test_bitcoin_data/2010/2010-08-23/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-24/ start: Tue Aug 24 15:05:03 2021
+
+388
+0   388
+/home/daslab/test_bitcoin_data/2010/2010-08-24/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-25/ start: Tue Aug 24 15:05:03 2021
+
+337
+0   337
+/home/daslab/test_bitcoin_data/2010/2010-08-25/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-26/ start: Tue Aug 24 15:05:03 2021
+
+401
+0   401
+/home/daslab/test_bitcoin_data/2010/2010-08-26/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-27/ start: Tue Aug 24 15:05:03 2021
+
+365
+0   365
+/home/daslab/test_bitcoin_data/2010/2010-08-27/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-28/ start: Tue Aug 24 15:05:03 2021
+
+307
+0   307
+/home/daslab/test_bitcoin_data/2010/2010-08-28/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-29/ start: Tue Aug 24 15:05:03 2021
+
+347
+0   347
+/home/daslab/test_bitcoin_data/2010/2010-08-29/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-30/ start: Tue Aug 24 15:05:03 2021
+
+269
+0   269
+/home/daslab/test_bitcoin_data/2010/2010-08-30/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-08-31/ start: Tue Aug 24 15:05:03 2021
+
+284
+0   284
+/home/daslab/test_bitcoin_data/2010/2010-08-31/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-01/ start: Tue Aug 24 15:05:03 2021
+
+449
+0   449
+/home/daslab/test_bitcoin_data/2010/2010-09-01/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-02/ start: Tue Aug 24 15:05:03 2021
+
+422
+0   422
+/home/daslab/test_bitcoin_data/2010/2010-09-02/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-03/ start: Tue Aug 24 15:05:03 2021
+
+324
+0   324
+/home/daslab/test_bitcoin_data/2010/2010-09-03/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-04/ start: Tue Aug 24 15:05:03 2021
+
+301
+0   301
+/home/daslab/test_bitcoin_data/2010/2010-09-04/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-05/ start: Tue Aug 24 15:05:03 2021
+
+285
+0   285
+/home/daslab/test_bitcoin_data/2010/2010-09-05/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-06/ start: Tue Aug 24 15:05:03 2021
+
+314
+0   314
+/home/daslab/test_bitcoin_data/2010/2010-09-06/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-07/ start: Tue Aug 24 15:05:03 2021
+
+290
+0   290
+/home/daslab/test_bitcoin_data/2010/2010-09-07/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-08/ start: Tue Aug 24 15:05:03 2021
+
+271
+0   271
+/home/daslab/test_bitcoin_data/2010/2010-09-08/ write finish
+/home/daslab/test_bitcoin_data/2010/2010-09-09/ start: Tue Aug 24 15:05:03 2021
+
+290
+0   290
